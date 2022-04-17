@@ -38,7 +38,7 @@ export const DragLayout = () => {
         return undefined
       },
     }),
-    [pos1],
+    [pos1, pos2, pos3],
   )
   useEffect(() => {
     if (typeof size !== "undefined") {

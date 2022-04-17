@@ -19,4 +19,3 @@
 
 - dragLayer 用来做拖拽时的影子(preview)
   
-- layout 记得写 博客里面 去
